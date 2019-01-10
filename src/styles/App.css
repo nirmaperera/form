@@ -1,0 +1,63 @@
+
+body{
+  margin: 0px;
+  padding:0px;
+
+
+}
+
+form{
+	
+	
+	border: 2px black solid;
+	width:30%;
+	margin: 50px 350px;
+	text-align: center;
+	background-color: #F0f0f0;
+	padding: 20px;
+
+}
+
+
+
+h1{
+	color:grey;
+	text-align: center;
+	
+}
+
+.inline{
+	font-weight: bolder;
+	display: inline-block;
+}
+
+input{
+	padding: 5px 10px;
+	margin: 10px;
+	width:30%;
+	border: 1px black solid;
+}
+
+
+.btn{
+  margin: 10px;
+  padding: 4px 10px;
+  
+}
+
+.editBtn{
+	float: right;
+	padding: 5px 10px;
+	margin-top: 0px;
+}
+
+.inline {
+	font-size: 20px;
+	
+	
+	margin-right: 50px;
+
+	
+}
+
+
